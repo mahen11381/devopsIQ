@@ -1,2 +1,2 @@
-FROM httpd:2.2.31
+FROM mahen1381/newapache
 ADD ./devopsIQ /var/www/html/devopsIQ
