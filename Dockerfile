@@ -1,2 +1,2 @@
 FROM hshar/webapp
-ADD index.html /var/www/html/devopsIQ
+ADD index.html ./var/www/html/devopsIQ
