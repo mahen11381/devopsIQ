@@ -1,2 +1,2 @@
-FROM mahen1381/newapache
+FROM mahen1381/apache
 ADD ./devopsIQ /var/www/html/devopsIQ
